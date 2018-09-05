@@ -15,3 +15,6 @@ end
 #     puts "Hi, #{name}"
 #   end
 # end
+hello_t() do |name|
+  puts #{name}
+end
